@@ -1,0 +1,8 @@
+{
+  "name": "룩스리엘 (LuxRiel)",
+  "description": "최상위 하이엔드 공간의 정점, 룩스리엘. AI 기반 정밀 설계와 독보적인 럭셔리 감성으로 시중가 절반의 혁신적 가치를 실현합니다.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
